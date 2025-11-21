@@ -1,0 +1,15 @@
+main {
+    background-color: #f0fff0;
+}
+
+h2 {
+    color: #2d7a2d;
+    border-bottom: 3px solid #4CAF50;
+    padding-bottom: 0.5rem;
+}
+
+p {
+    color: #333;
+    font-size: 1.05rem;
+    font-style: italic;
+}
