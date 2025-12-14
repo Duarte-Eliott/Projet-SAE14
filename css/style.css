@@ -20,24 +20,25 @@ header {
     align-items: center;
 }
 
+footer {
+    background-color: #c6a4d6;
+    color: var(--secondary-color);
+    text-align: center;
+    padding: 10px 0;
+    font-family: "Dancing Script", cursive;    
+    margin-top: 20px;
+}
+
 .img-logo {
     height: 150px;       
-    width: 150px;       
+    width: 150px;    
+    text-align: right; 
+    flex: 1;  
 }  
-
 .spacer {
-    height: 15px;
-    width: 15px; 
-    display: flex;       
-    align-items: right; 
-}   
-.spacer2 {
-    height: 15px;
-    width: 15px; 
-    display: flex;       
-    align-items: left; 
-}   
 
+    flex: 1;
+}
 
 nav {
     display: flex;
@@ -72,12 +73,14 @@ main {
     margin: 0 auto;
     flex: 1;
     background-color: #c6a4d6;
+    
 }
 
 h1 {
-    font-family: "arial", cursive;  
     font-weight: 700;      
     font-size: 60px;
+    text-align: center;
+    flex: 1;
 }
 
 h2 {
