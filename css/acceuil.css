@@ -1,14 +1,20 @@
-main {
-    background-color: #f8f8f8;
+
+.img-accueil
+{
+  width: 40%;
+  display: flex;
+  align-items: right;
+  border-radius: 12px;
+  overflow: hidden;
 }
 
-
-h2 {
-    color: #2c5aa0;
-    border-bottom: 3px solid #4CAF50;
+.conteneur-img-text {
+    display: flex;
+    flex-direction: row-reverse;
+    align-items: flex-start;
+    gap: 20px;
+    padding: 10px; 
 }
-
-p {
-    color: #444;
-
+.mon-texte {
+    flex: 1;
 }
