@@ -21,14 +21,56 @@ header {
     align-items: center;
 }
 
+
+
 footer {
-    background-color: #c6a4d6;
-    color: var(--secondary-color);
-    text-align: center;
-    padding: 10px 0;
-    font-family: "Dancing Script", cursive;    
-    margin-top: 20px;
+    background-color: #222;
+    color: #ccc;
+    padding: 3rem ;
 }
+
+.footer_glob {
+    display: flex;
+    justify-content: space-between;
+    flex-wrap: wrap;
+    margin-bottom: 2rem;
+}
+
+.footer_comt {
+    color: #ffffff;
+    
+    flex: 1;
+    min-width: 250px;
+    margin-bottom: 1rem;
+}
+
+.footer_comt h4 {
+    
+    color: #ffffff;
+    margin-bottom: 1rem;
+    font-family: a def;
+}
+
+.footer_comt p{
+    color: #c6a4d6;
+
+    font-size: 0.9rem;
+    margin-bottom: 0.5rem;
+}
+
+.reseaux {
+    margin-right: 10px;
+    color: var(--primary-color);
+}
+
+.legal {
+    text-align: center;
+    border-top: 1px solid var(--primary-color);
+    padding-top: 1rem;
+    font-size: 0.8rem;
+}
+
+
 
 .img-logo {
     height: 150px;       

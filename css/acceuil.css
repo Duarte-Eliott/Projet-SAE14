@@ -8,6 +8,19 @@
   overflow: hidden;
 }
 
+
+
+
+.acceuil-list {
+  
+    margin-bottom: 0.5rem;
+    font-size: 1.1rem;
+}
+
+
+
+
+
 .conteneur-img-text {
     display: flex;
     flex-direction: row-reverse;
