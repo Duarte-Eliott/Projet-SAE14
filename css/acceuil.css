@@ -92,7 +92,6 @@ p {
 .contenu p {
     margin: 0;
     color: #666;
-    font-size: 0.9rem;
 }
 
 
@@ -105,4 +104,12 @@ p {
 }
 .mon-texte {
     flex: 1;
+}
+
+
+
+@media (max-width: 768px) {
+.container-chats {
+flex-direction: column; /* Passe en colonne sur petit écran */
+}
 }

@@ -39,7 +39,7 @@ p {
     display: flex;          
     justify-content: center; 
     gap: 20px;              
-    max-width: 1200px;      
+    max-width: 300px;      
     margin: 0 auto;         
 }
 
