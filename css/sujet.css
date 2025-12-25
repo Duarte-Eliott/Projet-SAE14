@@ -1,39 +1,39 @@
 :root {
-    --primary-color: #c4b5c6; 
-    --secondary-color: #522c69; 
+  --primary-color: #c4b5c6; 
+  --secondary-color: #522c69; 
 }
 
 h2 {
-    color: var(--secondary-color);
-    font-family: "Dancing Script", cursive;    
-    font-weight: 600;
-    font-size: 45px;
+  color: var(--secondary-color);
+  font-family: "Dancing Script", cursive;    
+  font-weight: 600;
+  font-size: 45px;
 }
 
 h3 {
-    font-family: "Dancing Script", cursive;    
-    color: var(--secondary-color);
-    font-size: 35px;
-    margin-top: 10px
+  font-family: "Dancing Script", cursive;    
+  color: var(--secondary-color);
+  font-size: 35px;
+  margin-top: 10px
 }
 
 
 h4 {
-    font-family: "Dancing Script", cursive;    
-    color: var(--secondary-color);
-    font-size: 28px;
-    margin-top: 10px
+  font-family: "Dancing Script", cursive;    
+  color: var(--secondary-color);
+  font-size: 28px;
+  margin-top: 10px
 }
 
 
 
 
 p {
-    color: #272626;
-    font-size: 16px;
-    line-height: 20px;
-    margin-bottom: 20px;
-    font-family: "Roboto Slab", serif;
+  color: #272626;
+  font-size: 16px;
+  line-height: 20px;
+  margin-bottom: 20px;
+  font-family: "Roboto Slab", serif;
 }
 
 
@@ -42,15 +42,13 @@ p {
 
 
 .sujet-list-1 {
-    color: #272626;
-    
-    margin-left: 15px;  
-    margin-top: 20px;
-    font-size: 16px;
-    line-height: 30px;
-    margin-bottom: 20px;
-
-    font-family: "Roboto Slab", serif;
+  color: #272626;  
+  margin-left: 15px;  
+  margin-top: 20px;
+  font-size: 16px;
+  line-height: 30px;
+  margin-bottom: 20px;
+  font-family: "Roboto Slab", serif;
     
 }
 
